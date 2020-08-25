@@ -1,6 +1,6 @@
 # Census Activity
 
-In this activity we will utilize the Census API in order to obtain census data at a state level.
+In this project we will utilize the Census API in order to obtain census data at a state level.
 
 ## Instructions
 
@@ -22,9 +22,9 @@ In this activity we will utilize the Census API in order to obtain census data a
 
 * Save the resulting data as a csv.
 
-* Next, read in the provided csv containing state centroid coordinates and merge this data with your original census data.
+* Next, read in the provided csv containing state centroid coordinates and merge this data with our original census data.
 
-* With the coordinates now appended to the dataframe, you have the ability to add markers to the base map.
+* With the coordinates now appended to the dataframe, we have the ability to add markers to the base map.
 
   * Use the 'Poverty Rate' column to create an `info_box` corresponding to each marker.
 
